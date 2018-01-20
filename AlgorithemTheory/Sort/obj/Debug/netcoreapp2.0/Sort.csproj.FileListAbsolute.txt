@@ -1,0 +1,11 @@
+E:\SoftwareFactory\Algorithem\Sort\bin\Debug\netcoreapp2.0\Sort.deps.json
+E:\SoftwareFactory\Algorithem\Sort\bin\Debug\netcoreapp2.0\Sort.runtimeconfig.json
+E:\SoftwareFactory\Algorithem\Sort\bin\Debug\netcoreapp2.0\Sort.runtimeconfig.dev.json
+E:\SoftwareFactory\Algorithem\Sort\bin\Debug\netcoreapp2.0\Sort.dll
+E:\SoftwareFactory\Algorithem\Sort\bin\Debug\netcoreapp2.0\Sort.pdb
+E:\SoftwareFactory\Algorithem\Sort\obj\Debug\netcoreapp2.0\Sort.csproj.CoreCompileInputs.cache
+E:\SoftwareFactory\Algorithem\Sort\obj\Debug\netcoreapp2.0\Sort.AssemblyInfoInputs.cache
+E:\SoftwareFactory\Algorithem\Sort\obj\Debug\netcoreapp2.0\Sort.AssemblyInfo.cs
+E:\SoftwareFactory\Algorithem\Sort\obj\Debug\netcoreapp2.0\Sort.dll
+E:\SoftwareFactory\Algorithem\Sort\obj\Debug\netcoreapp2.0\Sort.pdb
+E:\SoftwareFactory\Algorithem\Sort\obj\Debug\netcoreapp2.0\Sort.csprojResolveAssemblyReference.cache

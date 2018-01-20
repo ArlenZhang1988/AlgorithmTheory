@@ -1,0 +1,11 @@
+E:\SoftwareFactory\Algorithem\Search\bin\Debug\netcoreapp2.0\Search.deps.json
+E:\SoftwareFactory\Algorithem\Search\bin\Debug\netcoreapp2.0\Search.runtimeconfig.json
+E:\SoftwareFactory\Algorithem\Search\bin\Debug\netcoreapp2.0\Search.runtimeconfig.dev.json
+E:\SoftwareFactory\Algorithem\Search\bin\Debug\netcoreapp2.0\Search.dll
+E:\SoftwareFactory\Algorithem\Search\bin\Debug\netcoreapp2.0\Search.pdb
+E:\SoftwareFactory\Algorithem\Search\obj\Debug\netcoreapp2.0\Search.csprojResolveAssemblyReference.cache
+E:\SoftwareFactory\Algorithem\Search\obj\Debug\netcoreapp2.0\Search.csproj.CoreCompileInputs.cache
+E:\SoftwareFactory\Algorithem\Search\obj\Debug\netcoreapp2.0\Search.AssemblyInfoInputs.cache
+E:\SoftwareFactory\Algorithem\Search\obj\Debug\netcoreapp2.0\Search.AssemblyInfo.cs
+E:\SoftwareFactory\Algorithem\Search\obj\Debug\netcoreapp2.0\Search.dll
+E:\SoftwareFactory\Algorithem\Search\obj\Debug\netcoreapp2.0\Search.pdb

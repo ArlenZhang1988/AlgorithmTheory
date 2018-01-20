@@ -1,0 +1,11 @@
+E:\SoftwareFactory\Algorithem\Graph4.4\bin\Debug\netcoreapp2.0\Graph4.4.deps.json
+E:\SoftwareFactory\Algorithem\Graph4.4\bin\Debug\netcoreapp2.0\Graph4.4.runtimeconfig.json
+E:\SoftwareFactory\Algorithem\Graph4.4\bin\Debug\netcoreapp2.0\Graph4.4.runtimeconfig.dev.json
+E:\SoftwareFactory\Algorithem\Graph4.4\bin\Debug\netcoreapp2.0\Graph4.4.dll
+E:\SoftwareFactory\Algorithem\Graph4.4\bin\Debug\netcoreapp2.0\Graph4.4.pdb
+E:\SoftwareFactory\Algorithem\Graph4.4\obj\Debug\netcoreapp2.0\Graph4.4.csprojResolveAssemblyReference.cache
+E:\SoftwareFactory\Algorithem\Graph4.4\obj\Debug\netcoreapp2.0\Graph4.4.csproj.CoreCompileInputs.cache
+E:\SoftwareFactory\Algorithem\Graph4.4\obj\Debug\netcoreapp2.0\Graph4.4.AssemblyInfoInputs.cache
+E:\SoftwareFactory\Algorithem\Graph4.4\obj\Debug\netcoreapp2.0\Graph4.4.AssemblyInfo.cs
+E:\SoftwareFactory\Algorithem\Graph4.4\obj\Debug\netcoreapp2.0\Graph4.4.dll
+E:\SoftwareFactory\Algorithem\Graph4.4\obj\Debug\netcoreapp2.0\Graph4.4.pdb

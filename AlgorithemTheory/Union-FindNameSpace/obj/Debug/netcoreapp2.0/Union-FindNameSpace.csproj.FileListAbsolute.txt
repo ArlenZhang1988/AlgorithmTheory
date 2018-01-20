@@ -1,0 +1,11 @@
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\bin\Debug\netcoreapp2.0\Union-FindNameSpace.deps.json
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\bin\Debug\netcoreapp2.0\Union-FindNameSpace.runtimeconfig.json
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\bin\Debug\netcoreapp2.0\Union-FindNameSpace.runtimeconfig.dev.json
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\bin\Debug\netcoreapp2.0\Union-FindNameSpace.dll
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\bin\Debug\netcoreapp2.0\Union-FindNameSpace.pdb
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\obj\Debug\netcoreapp2.0\Union-FindNameSpace.csprojResolveAssemblyReference.cache
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\obj\Debug\netcoreapp2.0\Union-FindNameSpace.csproj.CoreCompileInputs.cache
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\obj\Debug\netcoreapp2.0\Union-FindNameSpace.AssemblyInfoInputs.cache
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\obj\Debug\netcoreapp2.0\Union-FindNameSpace.AssemblyInfo.cs
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\obj\Debug\netcoreapp2.0\Union-FindNameSpace.dll
+E:\SoftwareFactory\Algorithem\Union-FindNameSpace\obj\Debug\netcoreapp2.0\Union-FindNameSpace.pdb
